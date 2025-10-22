@@ -1,0 +1,8 @@
+[includeIf "gitdir:~/workspaces/work/"]
+	path = ~/workspaces/work/.gitconfig
+
+[includeIf "gitdir:~/workspaces/personal/"]
+	path = ~/workspaces/personal/.gitconfig
+
+[includeIf "gitdir:~/.local/share/chezmoi/"]
+	path = ~/workspaces/personal/.gitconfig
