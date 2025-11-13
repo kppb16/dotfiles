@@ -7,5 +7,8 @@ return {
         bold = true,
       },
     },
+    options = {
+      always_show_bufferline = true,
+    },
   },
 }
